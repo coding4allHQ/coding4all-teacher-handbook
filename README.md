@@ -1,6 +1,6 @@
-# Coding4All Syllabus :: HTML Module
+# Coding4All Learning Outcomes :: HTML Module
 
-📌 This syllabus page outlines the major topics to be covered in the HTML module. The purpose of this page is to help teachers prepare what to teach in each session and what will be the expected milestone to be achieved at the end of each class. 
+📌 This page outlines the major topics to be covered in the HTML module. The purpose of this page is to help teachers prepare what to teach in each session and what will be the expected milestone to be achieved at the end of each class. 
 
 The purpose of this document is to give you general direction. You can always improvise and approach a particular topic the way you want to.
 
