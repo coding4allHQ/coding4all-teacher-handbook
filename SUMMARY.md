@@ -1,4 +1,4 @@
-- [📗 Class#1 Ice breaking + Introduction to HTML ](Class#1.md)
+- [📗 Class-1 Ice breaking + Introduction to HTML ](Class-1.md)
 
 ## 📗 Class#2 **Introduction to GitHub**
 
