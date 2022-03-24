@@ -17,6 +17,6 @@
 
 **Milestone for Class#1**
 
-`💡 Students should understand the various content types that go into a website page. Such as text, images, table, list, hyperlink, etc.`
+```💡 Students should understand the various content types that go into a website page. Such as text, images, table, list, hyperlink, etc.```
 
 
