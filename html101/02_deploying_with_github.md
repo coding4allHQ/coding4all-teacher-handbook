@@ -32,7 +32,7 @@ In this course, we will not be using GitHub as a collaboration tool. We want stu
 All students should have a basic static website live with URL `github_username.github.io` with one line of content.
 
 # Assignments
-- <1>
-- <2>
 
+
+# How to revise
 

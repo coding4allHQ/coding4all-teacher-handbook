@@ -13,6 +13,7 @@
 Students should be able to edit and push the code from the SPCK editor comfortably.
 
 # Assignments
-- <1>
-- <2>
+
+
+# How to revise
 

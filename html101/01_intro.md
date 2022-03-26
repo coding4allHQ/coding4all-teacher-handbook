@@ -4,12 +4,17 @@ As this is the introductory class, we should begin by building a rapport with th
 
 # Suggested activities
 
-* Activity: Why should we bother learning to write code?
+* Activity 1: Introduce yourself
+    - A round of introductions, starting with the teacher
+    - The teacher should ideally note the students' interests and hobbies so that later they can prompt them when choosing ideas for webpages
+* Activity 2: Discuss why should we bother learning to write code?
     - A round-table discussion on why the students want to learn coding
     - The teacher can emphasize:
       - Computers are everywhere, from whatsapp tomobile phones to self-driving cars to rockets.
       - Coding can develop critical thinking, improve career prospects, and empower the students build and ship independently.
       - Coding can also be fun. Not in the distant future, right now. You can create your own website (before the course is done), put it up on the internet, and share it with your friends and family.
+* Activity 3: Try to come up with a program for a common activity (for example: making nimbu paani or baking a cake)
+    - Inspiration: [Exact Instructions Challenge - THIS is why my kids hate me. | Josh Darnit](https://www.youtube.com/watch?v=cDA3_5982h8)
 
 **Notes**
 
@@ -35,5 +40,16 @@ By the end of the sessions, the student should ideally have a good understanding
 
 # Assignments
 
-* ?? create an example page for students to analyse (some kind of HTML sandbox)
-* Reading material on how the web works
+* Watch a video on how the web works ([suggested video](https://www.youtube.com/watch?v=hJHvdBlSxug))
+* **PENDING** create an example page for students to analyse (HTML sandbox demonstrations)
+
+# How to revise
+
+We recommend revising this session at the start of the next session. Here we recommend questions and activities that you can use when revising with students.
+
+* Ask questions (correcting or expanding on students' response is not necessary unless they reveal a conceptual misunderstanding)
+   - What is the internet?
+   - What is a website?
+   - What is HTML?
+   - What is an HTML tag?
+

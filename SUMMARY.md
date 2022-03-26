@@ -1,3 +1,4 @@
+* [Interacting with young students](interaction.md)
 * [HTML101](html101/README.md)
   - [1. Introduction](html101/01_intro.md)
   - [2. Deploying with GitHub](html101/02_deploying_with_github.md)

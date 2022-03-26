@@ -13,5 +13,5 @@
 Students should be able to upload their own images from their phone or should be able to add any image from the internet. They should do this using the code editor and git push.
 
 # Assignments
-- <1>
-- <2>
+
+# How to revise

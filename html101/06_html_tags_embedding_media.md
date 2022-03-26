@@ -11,5 +11,6 @@
 Students should be able to embed a video from YouTube or from their phones. They should do this using the code editor and git push.
 
 # Assignments
-- <1>
-- <2>
+
+
+# How to revise
