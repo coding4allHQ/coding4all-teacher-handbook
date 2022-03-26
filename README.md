@@ -1,3 +1,4 @@
+Note: The gitbook for this repo is available here: [Coding4All Teacher's Handbook](https://vivekchoksi89.gitbook.io/coding4all-syllabus-html-module/)
 # Coding4All Learning Outcomes :: HTML Module
 
 📌 This page outlines the major topics to be covered in the HTML module. The purpose of this page is to help teachers prepare what to teach in each session and what will be the expected milestone to be achieved at the end of each class. 
