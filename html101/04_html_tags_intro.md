@@ -57,3 +57,6 @@ By the end of this class, students should have good understanding of HTML page s
 - [HTML Text formatiing](https://www.w3schools.com/html/html_formatting.asp). Learn how to apply bold, italics & underline to the text.
 
 # How to revise
+
+#Source
+- [Mozilla](https://developer.mozilla.org/en-US/docs/Learn/HTML)
