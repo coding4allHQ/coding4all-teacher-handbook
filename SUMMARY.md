@@ -1,4 +1,4 @@
-* HTML101
+* [HTML101](html101/README.md)
   - [1. Introduction](html101/01_intro.md)
   - [2. Deploying with GitHub](html101/02_deploying_with_github.md)
   - [3. IDE and working with GitHub](html101/03_ide_and_github.md)
