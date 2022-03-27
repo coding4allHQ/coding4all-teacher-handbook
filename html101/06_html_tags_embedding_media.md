@@ -1,7 +1,7 @@
 # Key goals for the class
 
 # Suggested activities
-- [Embedding YouTube videos from YouTube] (https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)
+- [Embedding YouTube videos from YouTube](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)
 - Adding a video from phone
 - [Adding emojis](https://www.w3schools.com/html/html_emojis.asp)
 
