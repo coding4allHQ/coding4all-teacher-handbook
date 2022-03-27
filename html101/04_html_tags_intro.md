@@ -60,3 +60,4 @@ By the end of this class, students should have good understanding of HTML page s
 
 # Source
 - [Mozilla](https://developer.mozilla.org/en-US/docs/Learn/HTML)
+- [W3School](https://www.w3schools.com/html/default.asp)
