@@ -12,7 +12,7 @@ For the final project, students will have to create a website on any topic of th
 - [My family](https://premlata19.github.io/)
 - [Le Wonder](https://gangasagar-09.github.io/lewonder/index.html)
 
-```html 
+``` 
 Each website should contain a footer that contains the following information 
 
 Created by <student_name> under the guidance of <teacher_name> (with teacher’s LinkedIn URL as hyperlink (optional)) & powered by Coding4All (Coding4all.in as hyperlink).
