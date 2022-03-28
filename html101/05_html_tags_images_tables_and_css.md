@@ -1,5 +1,11 @@
 # Key goals for the class
 
+Continuing our journey of HTML, we aim to teach 
+
+* the `<img>` tag,
+* basics on inline CSS, and 
+* how to create a basic table in HTML.
+* 
 # Suggested activities
 
 - [Images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)

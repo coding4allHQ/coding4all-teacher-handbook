@@ -1,7 +1,14 @@
 # Key goals for the class
-Main goal behind this class is to get comfortable with HTML Page structure using the basic content tags.
+
+Diving into the meat of the matter, in this class we aim to teach HTML Page structure using four basic content tags:
+
+* Headings
+* Paragraphs
+* Lists
+* Links
 
 # Suggested activities
+
  * Activity:
     - Heading & Paragraph
         - Most structured text consists of headings and paragraphs, whether you are reading a story, a newspaper, a college textbook, a magazine, etc. Structured content makes the reading experience easier and more enjoyable.
