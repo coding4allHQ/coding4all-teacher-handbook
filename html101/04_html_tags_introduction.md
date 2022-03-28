@@ -1,6 +1,6 @@
 # Key goals for the class
 
-Diving into the meat of the matter, in this class we aim to teach HTML Page structure using four basic content tags:
+Diving into the crux of the matter, in this class we aim to teach HTML Page structure using four basic content tags:
 
 * Headings
 * Paragraphs
